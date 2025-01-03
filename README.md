@@ -49,3 +49,6 @@ Welcome to the **Day 2 Webpage** repository! This project showcases the developm
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/day2webpage.git
+
+   Author 💻
+Developed by Your Name
